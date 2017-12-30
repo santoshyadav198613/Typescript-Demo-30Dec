@@ -1,0 +1,64 @@
+Pre-requisite:
+html-5,css
+
+Installation:
+
+1. NodeJs
+  - https://nodejs.org/en/download/  download link
+  - node -v -- to check version of nodejs, should be greater than 6	
+	
+2. Typescript 
+  - https://www.typescriptlang.org/  
+  - npm install -g typescript  --to install typescript locally 
+	
+3. npm - (Node Package Manager)
+  - npm -v to check the version, should be greater than 3
+
+4. Angular Cli:
+  - npm install @angular/cli@latest -g  -- Install latest version of angular cli
+
+5. IDE -  Visual Studio Code
+  - https://code.visualstudio.com/
+ 
+Language:
+
+1. Typescript 
+2. Javascript
+3. Dart
+
+
+Typescript: 
+
+1. created by microsoft in 2011, it is open source.
+2. It is superset of java.
+3. Converts the typescript code to optimized JS code.
+4. End result is always a JS code.
+5. Transpiler - Tramsforms TS to JS and JS to optimized code.
+6. Can be used apart from angular.
+
+Adv:
+1. It  is type safe
+2. Write once compile to any JS version
+3. Future safe code
+
+Typescript/Javascript Modules:
+Every files in typescript/Javascript is a module.
+
+Keywords to remember: import and export
+
+To Transpile:
+tsc <filename>
+
+NodeJs - V8 engine
+
+
+JS version:
+ES5 - Current version 
+ES6 - Next version of JS
+
+
+Typescript config:
+
+1. tsc -init
+2. go to Tasks -> Configure Default Build Tasks
+3. 
