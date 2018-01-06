@@ -61,6 +61,6 @@ Typescript config:
 
 1. tsc -init
 2. go to Tasks -> Configure Default Build Tasks
-3.
+3.  
 
 ng new StudentManagementApp
